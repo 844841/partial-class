@@ -1,0 +1,7 @@
+d:\Users\Admin\source\repos\partial class\partial class\bin\Debug\partial class.exe.config
+d:\Users\Admin\source\repos\partial class\partial class\bin\Debug\partial class.exe
+d:\Users\Admin\source\repos\partial class\partial class\bin\Debug\partial class.pdb
+d:\Users\Admin\source\repos\partial class\partial class\obj\Debug\partial class.csprojResolveAssemblyReference.cache
+d:\Users\Admin\source\repos\partial class\partial class\obj\Debug\partial class.csproj.CoreCompileInputs.cache
+d:\Users\Admin\source\repos\partial class\partial class\obj\Debug\partial class.exe
+d:\Users\Admin\source\repos\partial class\partial class\obj\Debug\partial class.pdb
